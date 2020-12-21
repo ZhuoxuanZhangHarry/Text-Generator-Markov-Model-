@@ -1,4 +1,4 @@
-This text generator uses these Markov model to read in a sample text, then generate a new random text based off the sample.
+This text generator uses these Markov model to read in a sample text, then generates a new random text based off the sample.
 
 Usage:
 
